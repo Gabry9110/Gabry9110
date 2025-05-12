@@ -33,7 +33,7 @@ I'm not (yet) building the next Linux kernel, but I like contributing to persona
 Feel free to connect or collaborate!  
 I’m always down to talk about weird Linux setups, automation scripts, or your latest console modding adventure.
 
-[![Email](https://img.shields.io/badge/email-grey?style=for-the-badge&logo=gmail)](mailto:gabry@gabry.moe)[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Gabry9110) [![Mastodon](https://img.shields.io/badge/Mastodon-563ACC?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.uno/@gabry9110) [![Bluesky](https://img.shields.io/badge/Bluesky-0072FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/gabry.moe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriele-tommaso-r-413172364/)
+[![Email](https://img.shields.io/badge/email-grey?style=for-the-badge&logo=gmail)](mailto:gabry@gabry.moe) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Gabry9110) [![Mastodon](https://img.shields.io/badge/Mastodon-563ACC?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.uno/@gabry9110) [![Bluesky](https://img.shields.io/badge/Bluesky-0072FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/gabry.moe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriele-tommaso-r-413172364/)
 
 ---
 
